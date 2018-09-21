@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 8.0
-#Version: 1.0
-#Date: 2018-08-08 13:21:52
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2018-08-08 13:21:52 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 302 0 0 84891
-2018-08-08 13:22:29 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 200 0 0 37295
-2018-08-08 13:22:29 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/User/LogOn 404 0 2 16

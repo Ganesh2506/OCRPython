@@ -1,6 +1,0 @@
-c:\users\ganeshkumbhar\documents\visual studio 2015\Projects\certdata\certdata\bin\Debug\certdata.exe.config
-c:\users\ganeshkumbhar\documents\visual studio 2015\Projects\certdata\certdata\bin\Debug\certdata.exe
-c:\users\ganeshkumbhar\documents\visual studio 2015\Projects\certdata\certdata\bin\Debug\certdata.pdb
-c:\users\ganeshkumbhar\documents\visual studio 2015\Projects\certdata\certdata\obj\Debug\certdata.csprojResolveAssemblyReference.cache
-c:\users\ganeshkumbhar\documents\visual studio 2015\Projects\certdata\certdata\obj\Debug\certdata.exe
-c:\users\ganeshkumbhar\documents\visual studio 2015\Projects\certdata\certdata\obj\Debug\certdata.pdb

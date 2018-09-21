@@ -1,6 +1,0 @@
-SecurityPrompt : Disabled
-RefreshPrompt : Enabled
-RegenerateConfig : Enabled
-ProjectBase:C:\Users\GaneshKumbhar\AppData\Local\Temp\Test Client Projects\12.0
-http://localhost:52898/Service_Mobile.svc
-http://localhost:2831/Service_Expense.svc

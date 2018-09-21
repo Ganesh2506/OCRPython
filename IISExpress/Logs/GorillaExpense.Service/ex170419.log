@@ -1,6 +1,0 @@
-#Software: Microsoft Internet Information Services 8.0
-#Version: 1.0
-#Date: 2017-04-19 08:18:21
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2017-04-19 08:18:21 ::1 GET /Service_Expense.svc - 2831 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 68710
-2017-04-19 08:21:33 ::1 GET /Service_Expense.svc - 2831 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 5286

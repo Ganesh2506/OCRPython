@@ -1,6 +1,0 @@
-c:\users\ganeshkumbhar\documents\visual studio 2013\Projects\DownloadBulkPDF\DownloadBulkPDF\bin\Debug\DownloadBulkPDF.exe.config
-c:\users\ganeshkumbhar\documents\visual studio 2013\Projects\DownloadBulkPDF\DownloadBulkPDF\bin\Debug\DownloadBulkPDF.exe
-c:\users\ganeshkumbhar\documents\visual studio 2013\Projects\DownloadBulkPDF\DownloadBulkPDF\bin\Debug\DownloadBulkPDF.pdb
-c:\users\ganeshkumbhar\documents\visual studio 2013\Projects\DownloadBulkPDF\DownloadBulkPDF\obj\Debug\DownloadBulkPDF.csprojResolveAssemblyReference.cache
-c:\users\ganeshkumbhar\documents\visual studio 2013\Projects\DownloadBulkPDF\DownloadBulkPDF\obj\Debug\DownloadBulkPDF.exe
-c:\users\ganeshkumbhar\documents\visual studio 2013\Projects\DownloadBulkPDF\DownloadBulkPDF\obj\Debug\DownloadBulkPDF.pdb

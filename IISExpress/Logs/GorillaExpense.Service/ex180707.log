@@ -1,7 +1,0 @@
-#Software: Microsoft Internet Information Services 8.0
-#Version: 1.0
-#Date: 2018-07-07 06:44:44
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2018-07-07 06:44:44 ::1 GET /Service_Expense.svc xsd=xsd1 2831 - ::1 - - 200 0 0 51249
-2018-07-07 06:44:44 ::1 GET /Service_Expense.svc xsd=xsd4 2831 - ::1 - - 200 0 0 628
-2018-07-07 06:44:44 ::1 GET /Service_Expense.svc xsd=xsd5 2831 - ::1 - - 200 0 0 62

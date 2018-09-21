@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 8.0
-#Version: 1.0
-#Date: 2017-02-06 09:16:01
-#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
-2017-02-06 09:16:01 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 - 302 0 64 13952

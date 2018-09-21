@@ -1,1 +1,0 @@
-Invoke build failed due to exception 'The imported project "C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.  C:\Users\GaneshKumbhar\Source\Workspaces\OCR\Gorilla.OCRService\Gorilla.OCRService.csproj'
