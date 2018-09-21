@@ -1,0 +1,23 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-08-30 16:54:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-08-30 16:54:48 ::1 GET /Home/Index - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 - 200 0 0 13943
+2017-08-30 16:54:48 ::1 GET /Scripts/jquery.fancybox.js - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 11
+2017-08-30 16:54:48 ::1 GET /Content/jquery.fancybox.css - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 11
+2017-08-30 16:54:48 ::1 GET /Content/bootstrap.css - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 20
+2017-08-30 16:54:48 ::1 GET /Scripts/jquery.fancybox.css - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 13
+2017-08-30 16:54:48 ::1 GET /Scripts/jQueryRotate.js - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 93
+2017-08-30 16:54:48 ::1 GET /Scripts/jquery.qtip.min.css - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 106
+2017-08-30 16:54:48 ::1 GET /Scripts/jquery.qtip.min.js - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 35
+2017-08-30 16:54:48 ::1 GET /Scripts/jquery.imgcheckbox.js - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 37
+2017-08-30 16:54:48 ::1 GET /Upload_Files/1428478371666+(1).jpg - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 200 0 0 69
+2017-08-30 16:54:48 ::1 GET /Upload_Files/1487580231275_220201784349AM+(2).jpg - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 77
+2017-08-30 16:54:48 ::1 GET /Upload_Files/1489063367790_392017124250PM.jpg - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 88
+2017-08-30 16:54:48 ::1 GET /Upload_Files/1487580231275_220201784349AM+(2)+-+Copy.jpg - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 101
+2017-08-30 16:54:48 ::1 GET /Upload_Files/Thumb_1428478371666+(1).jpg - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 200 0 0 136
+2017-08-30 16:54:48 ::1 GET /Upload_Files/test34.png - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 170
+2017-08-30 16:54:48 ::1 GET /Upload_Files/test.png - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 191
+2017-08-30 16:54:51 ::1 GET /__browserLink/requestData/359be8aeefe84b489c9c9efb4988f8cb version=2 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 200 0 0 346
+2017-08-30 16:59:27 ::1 HEAD /Upload_Files/test.pdf - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 1
+2017-08-30 16:59:27 ::1 HEAD /Upload_Files/test34.pdf - 47596 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.113+Safari/537.36 http://localhost:47596/Home/Index 304 0 0 1

@@ -1,0 +1,204 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 09:50:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 09:50:19 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 302 0 0 105305
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 10:04:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 10:04:55 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 302 0 0 60727
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 10:16:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 10:16:05 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 302 0 0 66247
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 10:19:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 10:19:58 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 113040
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 10:25:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 10:25:36 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 54507
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 11:06:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 11:06:33 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 292815
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 11:15:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 11:15:37 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 70859
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 12:32:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 12:32:55 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 88871
+2018-08-06 12:33:53 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 57991
+2018-08-06 12:33:58 ::1 GET /Images/sign-in-light.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 173
+2018-08-06 12:33:58 ::1 GET /images/logo_1.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 235
+2018-08-06 12:33:58 ::1 GET /assets/pages/css/font.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 326
+2018-08-06 12:33:58 ::1 GET /assets/pages/css/login-5.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 346
+2018-08-06 12:33:58 ::1 GET /assets/global/plugins/jquery.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 790
+2018-08-06 12:33:58 ::1 GET /assets/global/css/plugins.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 797
+2018-08-06 12:33:58 ::1 GET /assets/global/plugins/bootstrap/css/bootstrap.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 892
+2018-08-06 12:34:00 ::1 GET /assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 567
+2018-08-06 12:34:00 ::1 GET /assets/global/plugins/simple-line-icons/simple-line-icons.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 573
+2018-08-06 12:34:00 ::1 GET /assets/global/plugins/select2/css/select2-bootstrap.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 1005
+2018-08-06 12:34:00 ::1 GET /assets/global/plugins/select2/css/select2.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 1053
+2018-08-06 12:34:00 ::1 GET /assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 157
+2018-08-06 12:34:00 ::1 GET /assets/global/plugins/js.cookie.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 349
+2018-08-06 12:34:00 ::1 GET /assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 371
+2018-08-06 12:34:00 ::1 GET /assets/global/plugins/jquery.blockui.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 409
+2018-08-06 12:34:00 ::1 GET /assets/global/plugins/jquery-validation/js/jquery.validate.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 286
+2018-08-06 12:34:00 ::1 GET /assets/global/plugins/bootstrap/js/bootstrap.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 809
+2018-08-06 12:34:00 ::1 GET /assets/pages/scripts/login-5.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 428
+2018-08-06 12:34:00 ::1 GET /assets/global/scripts/app.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 461
+2018-08-06 12:34:01 ::1 GET /assets/global/plugins/select2/js/select2.full.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 733
+2018-08-06 12:34:01 ::1 GET /assets/global/plugins/jquery-validation/js/additional-methods.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 1177
+2018-08-06 12:34:01 ::1 GET /assets/global/css/components.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 2820
+2018-08-06 12:34:01 ::1 GET /assets/global/plugins/backstretch/jquery.backstretch.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 1382
+2018-08-06 12:34:12 ::1 GET /assets/global/img/remove-icon-small.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 404 0 2 37
+2018-08-06 12:34:17 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 404 0 2 5
+2018-08-06 12:34:18 ::1 GET /assets/pages/img/login/bg2.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 321
+2018-08-06 12:34:18 ::1 GET /favicon.ico - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 50
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 14:03:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 14:03:21 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 83712
+2018-08-06 14:04:23 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 61620
+2018-08-06 14:04:24 ::1 GET /assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 91
+2018-08-06 14:04:24 ::1 GET /assets/pages/css/font.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 94
+2018-08-06 14:04:24 ::1 GET /assets/global/plugins/simple-line-icons/simple-line-icons.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 96
+2018-08-06 14:04:24 ::1 GET /assets/global/plugins/select2/css/select2.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 168
+2018-08-06 14:04:24 ::1 GET /assets/global/plugins/select2/css/select2-bootstrap.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 216
+2018-08-06 14:04:24 ::1 GET /assets/pages/css/login-5.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 174
+2018-08-06 14:04:24 ::1 GET /assets/global/css/plugins.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 575
+2018-08-06 14:04:24 ::1 GET /assets/global/plugins/bootstrap/js/bootstrap.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 551
+2018-08-06 14:04:24 ::1 GET /assets/global/plugins/js.cookie.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 522
+2018-08-06 14:04:24 ::1 GET /assets/global/plugins/bootstrap/css/bootstrap.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 897
+2018-08-06 14:04:24 ::1 GET /assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 197
+2018-08-06 14:04:24 ::1 GET /assets/global/plugins/jquery.blockui.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 155
+2018-08-06 14:04:24 ::1 GET /assets/global/plugins/jquery.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 834
+2018-08-06 14:04:24 ::1 GET /assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 213
+2018-08-06 14:04:26 ::1 GET /assets/global/plugins/jquery-validation/js/jquery.validate.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 297
+2018-08-06 14:04:26 ::1 GET /assets/global/plugins/select2/js/select2.full.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 671
+2018-08-06 14:04:26 ::1 GET /assets/global/scripts/app.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 589
+2018-08-06 14:04:26 ::1 GET /images/logo_1.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 42
+2018-08-06 14:04:26 ::1 GET /assets/pages/scripts/login-5.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 540
+2018-08-06 14:04:26 ::1 GET /Images/sign-in-light.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 86
+2018-08-06 14:04:26 ::1 GET /assets/global/plugins/jquery-validation/js/additional-methods.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 1005
+2018-08-06 14:04:26 ::1 GET /assets/global/plugins/backstretch/jquery.backstretch.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 901
+2018-08-06 14:04:27 ::1 GET /assets/global/css/components.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 2264
+2018-08-06 14:04:36 ::1 GET /assets/global/img/remove-icon-small.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 404 0 2 72
+2018-08-06 14:04:36 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 404 0 2 3
+2018-08-06 14:04:37 ::1 GET /favicon.ico - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 23
+2018-08-06 14:04:37 ::1 GET /assets/pages/img/login/bg2.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 510
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 14:14:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 14:14:25 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 43859
+2018-08-06 14:15:44 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 79337
+2018-08-06 14:15:44 ::1 GET /assets/pages/css/font.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 22
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 48
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/simple-line-icons/simple-line-icons.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 69
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/select2/css/select2.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 99
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/select2/css/select2-bootstrap.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 110
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/bootstrap/css/bootstrap.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 147
+2018-08-06 14:15:44 ::1 GET /assets/pages/css/login-5.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 116
+2018-08-06 14:15:44 ::1 GET /assets/global/css/plugins.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 162
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/jquery.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 213
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 191
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/js.cookie.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 299
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/bootstrap/js/bootstrap.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 354
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/jquery.blockui.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 333
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 235
+2018-08-06 14:15:44 ::1 GET /assets/global/plugins/jquery-validation/js/jquery.validate.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 114
+2018-08-06 14:15:45 ::1 GET /assets/global/css/components.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 691
+2018-08-06 14:15:45 ::1 GET /assets/global/scripts/app.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 181
+2018-08-06 14:15:45 ::1 GET /assets/global/plugins/jquery-validation/js/additional-methods.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 266
+2018-08-06 14:15:45 ::1 GET /assets/global/plugins/backstretch/jquery.backstretch.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 289
+2018-08-06 14:15:45 ::1 GET /assets/global/plugins/select2/js/select2.full.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 312
+2018-08-06 14:15:45 ::1 GET /assets/pages/scripts/login-5.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 360
+2018-08-06 14:15:45 ::1 GET /images/logo_1.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 255
+2018-08-06 14:15:45 ::1 GET /Images/sign-in-light.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 220
+2018-08-06 14:15:54 ::1 GET /assets/global/img/remove-icon-small.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 404 0 2 4
+2018-08-06 14:15:54 ::1 GET /assets/pages/img/login/bg2.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 66
+2018-08-06 14:15:54 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 404 0 2 8
+2018-08-06 14:15:54 ::1 GET /favicon.ico - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 63
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 14:24:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 14:24:17 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 22577
+2018-08-06 14:24:17 ::1 GET /Error/NotFound aspxerrorpath=/ 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 483
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 14:27:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 14:27:06 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 45815
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 14:30:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 14:30:26 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 41695
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 14:34:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 14:34:48 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 47557
+2018-08-06 14:35:57 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 69694
+2018-08-06 14:35:57 ::1 GET /assets/global/plugins/select2/css/select2-bootstrap.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 66
+2018-08-06 14:35:57 ::1 GET /assets/global/plugins/select2/css/select2.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 86
+2018-08-06 14:35:57 ::1 GET /assets/pages/css/font.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 92
+2018-08-06 14:35:57 ::1 GET /assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 115
+2018-08-06 14:35:57 ::1 GET /assets/global/plugins/simple-line-icons/simple-line-icons.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 135
+2018-08-06 14:35:57 ::1 GET /assets/pages/css/login-5.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 70
+2018-08-06 14:35:57 ::1 GET /assets/global/css/plugins.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 220
+2018-08-06 14:35:59 ::1 GET /assets/global/plugins/bootstrap/css/bootstrap.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 492
+2018-08-06 14:35:59 ::1 GET /assets/global/plugins/jquery.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 363
+2018-08-06 14:35:59 ::1 GET /assets/global/plugins/bootstrap/js/bootstrap.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 346
+2018-08-06 14:35:59 ::1 GET /assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 457
+2018-08-06 14:35:59 ::1 GET /assets/global/plugins/jquery.blockui.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 324
+2018-08-06 14:35:59 ::1 GET /assets/global/plugins/js.cookie.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 207
+2018-08-06 14:35:59 ::1 GET /assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 196
+2018-08-06 14:35:59 ::1 GET /assets/pages/scripts/login-5.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 174
+2018-08-06 14:35:59 ::1 GET /assets/global/plugins/jquery-validation/js/additional-methods.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 216
+2018-08-06 14:35:59 ::1 GET /assets/global/plugins/jquery-validation/js/jquery.validate.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 215
+2018-08-06 14:35:59 ::1 GET /assets/global/scripts/app.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 149
+2018-08-06 14:35:59 ::1 GET /assets/global/plugins/backstretch/jquery.backstretch.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 203
+2018-08-06 14:35:59 ::1 GET /images/logo_1.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 133
+2018-08-06 14:35:59 ::1 GET /Images/sign-in-light.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 146
+2018-08-06 14:35:59 ::1 GET /assets/global/css/components.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 997
+2018-08-06 14:35:59 ::1 GET /assets/global/plugins/select2/js/select2.full.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 213
+2018-08-06 14:36:03 ::1 GET /assets/global/img/remove-icon-small.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 404 0 2 3
+2018-08-06 14:36:03 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 404 0 2 11
+2018-08-06 14:36:03 ::1 GET /assets/pages/img/login/bg2.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:51722/User/LogOn 200 0 0 101
+2018-08-06 14:36:03 ::1 GET /favicon.ico - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 51
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 15:16:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 15:16:57 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 302 0 0 66409
+2018-08-06 15:18:17 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 302 0 64 80256
+2018-08-06 15:18:59 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 302 0 64 78612
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 15:20:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 15:20:26 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 302 0 0 30053
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-08-06 15:24:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-06 15:24:21 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 302 0 0 40853
+2018-08-06 15:24:44 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 200 0 0 22712
+2018-08-06 15:24:44 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/User/LogOn 404 0 2 39
+2018-08-06 15:25:27 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 21721
+2018-08-06 15:25:27 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/User/LogOn 404 0 2 45

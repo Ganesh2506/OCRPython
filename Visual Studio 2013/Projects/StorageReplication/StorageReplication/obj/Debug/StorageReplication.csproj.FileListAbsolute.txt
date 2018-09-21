@@ -1,0 +1,1 @@
+c:\users\ganeshkumbhar\documents\visual studio 2013\Projects\StorageReplication\StorageReplication\bin\Debug\StorageReplication.exe.config

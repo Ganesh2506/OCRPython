@@ -1,0 +1,44 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-01-25 12:05:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-01-25 12:05:38 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - 302 0 0 36332
+2018-01-25 12:06:10 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - 200 0 0 32261
+2018-01-25 12:06:10 ::1 GET /assets/pages/css/font.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 82
+2018-01-25 12:06:10 ::1 GET /assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 82
+2018-01-25 12:06:10 ::1 GET /assets/global/plugins/simple-line-icons/simple-line-icons.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 86
+2018-01-25 12:06:10 ::1 GET /assets/global/plugins/select2/css/select2.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 148
+2018-01-25 12:06:10 ::1 GET /assets/global/plugins/select2/css/select2-bootstrap.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 170
+2018-01-25 12:06:10 ::1 GET /assets/pages/css/login-5.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 127
+2018-01-25 12:06:10 ::1 GET /assets/global/css/plugins.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 192
+2018-01-25 12:06:10 ::1 GET /assets/global/plugins/bootstrap/css/bootstrap.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 398
+2018-01-25 12:06:10 ::1 GET /assets/global/css/components.min.css - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 408
+2018-01-25 12:06:10 ::1 GET /assets/global/plugins/jquery.blockui.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 185
+2018-01-25 12:06:10 ::1 GET /assets/global/plugins/js.cookie.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 185
+2018-01-25 12:06:10 ::1 GET /assets/global/plugins/bootstrap/js/bootstrap.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 293
+2018-01-25 12:06:10 ::1 GET /assets/global/plugins/jquery.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 383
+2018-01-25 12:06:11 ::1 GET /assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 420
+2018-01-25 12:06:11 ::1 GET /assets/global/plugins/jquery-validation/js/jquery.validate.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 351
+2018-01-25 12:06:11 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 404 0 2 289
+2018-01-25 12:06:11 ::1 GET /assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 594
+2018-01-25 12:06:11 ::1 GET /assets/global/plugins/jquery-validation/js/additional-methods.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 402
+2018-01-25 12:06:11 ::1 GET /Images/sign-in-light.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 71
+2018-01-25 12:06:11 ::1 GET /images/logo_1.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 378
+2018-01-25 12:06:11 ::1 GET /assets/global/plugins/select2/js/select2.full.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 157
+2018-01-25 12:06:11 ::1 GET /assets/global/scripts/app.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 128
+2018-01-25 12:06:11 ::1 GET /assets/global/plugins/backstretch/jquery.backstretch.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 128
+2018-01-25 12:06:11 ::1 GET /assets/pages/scripts/login-5.min.js - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 184
+2018-01-25 12:06:11 ::1 GET /assets/pages/img/login/bg2.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 95
+2018-01-25 12:06:11 ::1 GET /assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 167
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-01-25 12:08:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-01-25 12:08:01 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - 200 0 0 23386
+2018-01-25 12:08:01 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 404 0 2 10
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-01-25 13:05:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-01-25 13:05:36 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - 200 0 0 68204
+2018-01-25 13:05:36 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 http://localhost:51722/User/LogOn 404 0 2 5

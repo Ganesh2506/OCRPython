@@ -1,0 +1,69 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-05-23 08:30:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-23 08:30:20 ::1 POST /Service_Mobile.svc - 52898 - ::1 - - 401 2 5 18534
+2018-05-23 08:30:20 ::1 POST /Service_Mobile.svc/mex - 52898 - ::1 - - 401 2 5 3
+2018-05-23 08:30:20 ::1 GET /Service_Mobile.svc - 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 401 2 5 5
+2018-05-23 08:30:21 ::1 POST /Service_Mobile.svc - 52898 - ::1 - - 401 2 5 6
+2018-05-23 08:30:21 ::1 GET /Service_Mobile.svc - 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 401 2 5 12
+2018-05-23 08:30:21 ::1 POST /Service_Mobile.svc/mex - 52898 - ::1 - - 401 2 5 12
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-05-23 08:32:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-23 08:32:20 ::1 GET /Service_Mobile.svc - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - 401 2 5 9535
+2018-05-23 08:32:20 ::1 GET /favicon.ico - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://localhost:52898/Service_Mobile.svc 401 2 5 10
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-05-23 08:36:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-23 08:36:03 ::1 POST /Service_Mobile.svc - 52898 - ::1 - - 415 0 0 7609
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc - 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 4680
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc disco 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 27
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc wsdl 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 56
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc xsd=xsd0 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 224
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc xsd=xsd2 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 139
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc xsd=xsd3 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 18
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc xsd=xsd1 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 93
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc xsd=xsd4 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 23
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc xsd=xsd5 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 16
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc xsd=xsd6 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 15
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc xsd=xsd7 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 107
+2018-05-23 08:36:08 ::1 POST /Service_Mobile.svc/mex - 52898 - ::1 - - 200 0 0 5464
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc xsd=xsd8 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 25
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc xsd=xsd9 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 13
+2018-05-23 08:36:08 ::1 GET /Service_Mobile.svc xsd=xsd10 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 13
+2018-05-23 08:38:57 ::1 POST /Service_Mobile.svc - 52898 - ::1 - - 500 0 0 112792
+2018-05-23 08:41:02 ::1 POST /Service_Mobile.svc - 52898 - ::1 - - 500 0 0 118281
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-05-23 11:18:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-23 11:18:38 ::1 POST /Service_Mobile.svc - 52898 - ::1 - - 401 2 5 3312
+2018-05-23 11:18:38 ::1 POST /Service_Mobile.svc/mex - 52898 - ::1 - - 401 2 5 6
+2018-05-23 11:18:38 ::1 GET /Service_Mobile.svc - 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 401 2 5 167
+2018-05-23 11:18:38 ::1 POST /Service_Mobile.svc - 52898 - ::1 - - 401 2 5 2
+2018-05-23 11:18:38 ::1 POST /Service_Mobile.svc/mex - 52898 - ::1 - - 401 2 5 8
+2018-05-23 11:18:38 ::1 GET /Service_Mobile.svc - 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 401 2 5 8
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-05-23 11:19:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-05-23 11:19:51 ::1 POST /Service_Mobile.svc - 52898 - ::1 - - 415 0 0 6657
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc - 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 3506
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc disco 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 28
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc wsdl 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 45
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc xsd=xsd0 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 216
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc xsd=xsd2 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 65
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc xsd=xsd3 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 6
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc xsd=xsd1 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 13
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc xsd=xsd4 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 7
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc xsd=xsd5 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 55
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc xsd=xsd6 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 7
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc xsd=xsd7 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 19
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc xsd=xsd8 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 6
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc xsd=xsd9 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 7
+2018-05-23 11:19:54 ::1 GET /Service_Mobile.svc xsd=xsd10 52898 - ::1 Mozilla/4.0+(compatible;+MSIE+6.0;+MS+Web+Services+Client+Protocol+4.0.30319.42000) - 200 0 0 6
+2018-05-23 11:19:54 ::1 POST /Service_Mobile.svc/mex - 52898 - ::1 - - 200 0 0 4063
+2018-05-23 11:23:49 ::1 POST /Service_Mobile.svc - 52898 - ::1 - - 200 0 0 142142

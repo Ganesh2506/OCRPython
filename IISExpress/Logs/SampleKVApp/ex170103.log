@@ -1,0 +1,44 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-01-03 07:09:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-01-03 07:09:00 ::1 GET /Home/Index - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 - 200 0 0 43931
+2017-01-03 07:09:00 ::1 GET /Scripts/modernizr-2.6.2.js - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 200 0 0 31
+2017-01-03 07:09:00 ::1 GET /Content/site.css - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 200 0 0 8
+2017-01-03 07:09:00 ::1 GET /Scripts/jquery-1.8.2.js - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 200 0 0 68
+2017-01-03 07:09:00 ::1 GET /Images/heroAccent.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 200 0 0 4
+2017-01-03 07:09:00 ::1 GET /Images/orderedList2.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 200 0 0 24
+2017-01-03 07:09:00 ::1 GET /Images/orderedList1.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 200 0 0 28
+2017-01-03 07:09:00 ::1 GET /Images/orderedList3.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 200 0 0 32
+2017-01-03 07:09:03 ::1 GET /favicon.ico - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 200 0 0 164
+2017-01-03 07:21:28 ::1 GET /Home/Index - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 - 200 0 0 4596
+2017-01-03 07:21:28 ::1 GET /Scripts/modernizr-2.6.2.js - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 304 0 0 12
+2017-01-03 07:21:28 ::1 GET /Content/site.css - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 304 0 0 15
+2017-01-03 07:21:28 ::1 GET /Scripts/jquery-1.8.2.js - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 304 0 0 8
+2017-01-03 07:21:28 ::1 GET /Images/heroAccent.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 4
+2017-01-03 07:21:28 ::1 GET /Images/orderedList1.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 4
+2017-01-03 07:21:28 ::1 GET /Images/orderedList2.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 4
+2017-01-03 07:21:28 ::1 GET /Images/orderedList3.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 4
+2017-01-03 07:21:29 ::1 GET /__browserLink/requestData/e2e0ef304311420aa137d994a515d728 version=2 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 200 0 0 273
+2017-01-03 07:23:22 ::1 GET / - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 - 200 0 0 2770
+2017-01-03 07:23:22 ::1 GET /Scripts/modernizr-2.6.2.js - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/ 304 0 0 12
+2017-01-03 07:23:22 ::1 GET /Content/site.css - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/ 304 0 0 12
+2017-01-03 07:23:22 ::1 GET /Scripts/jquery-1.8.2.js - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/ 304 0 0 12
+2017-01-03 07:23:22 ::1 GET /Images/heroAccent.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 7
+2017-01-03 07:23:22 ::1 GET /Images/orderedList1.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 7
+2017-01-03 07:23:22 ::1 GET /Images/orderedList2.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 7
+2017-01-03 07:23:22 ::1 GET /Images/orderedList3.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 6
+2017-01-03 07:23:22 ::1 GET /__browserLink/requestData/774712b7ba17461683a19336627b6d84 version=2 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/ 200 0 0 13
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-01-03 07:28:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-01-03 07:28:13 ::1 GET /Home/Index - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 - 200 0 0 14435
+2017-01-03 07:28:13 ::1 GET /Content/site.css - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 304 0 0 12
+2017-01-03 07:28:13 ::1 GET /Scripts/modernizr-2.6.2.js - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 304 0 0 7
+2017-01-03 07:28:13 ::1 GET /Scripts/jquery-1.8.2.js - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 304 0 0 4
+2017-01-03 07:28:13 ::1 GET /Images/heroAccent.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 3
+2017-01-03 07:28:13 ::1 GET /Images/orderedList1.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 4
+2017-01-03 07:28:13 ::1 GET /Images/orderedList2.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 4
+2017-01-03 07:28:13 ::1 GET /Images/orderedList3.png - 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Content/site.css 304 0 0 8
+2017-01-03 07:28:14 ::1 GET /__browserLink/requestData/348940d3648e460dab92104a1ea0b3ca version=2 14410 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.99+Safari/537.36 http://localhost:14410/Home/Index 200 0 0 39

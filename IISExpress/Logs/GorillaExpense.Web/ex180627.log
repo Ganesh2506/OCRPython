@@ -1,0 +1,40 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-06-27 13:14:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-27 13:14:53 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.87+Safari/537.36 - 500 0 0 169558
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-06-27 13:59:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-06-27 13:59:29 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 302 0 0 67034
+2018-06-27 13:59:50 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 200 0 0 20405
+2018-06-27 13:59:50 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/User/LogOn 404 0 2 23
+2018-06-27 14:07:34 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/User/LogOn 302 0 0 35605
+2018-06-27 14:12:26 ::1 GET / - 51722 qcemployee7.gorilla@gmail.com ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 291323
+2018-06-27 14:12:26 ::1 GET /css/SiteLayoutPageForMasters-css v=tYCFPUvfhMe1vmZxcbcDA87hINYJdoZqWZmrS9VAazU1 51722 qcemployee7.gorilla@gmail.com ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ 200 0 0 45
+2018-06-27 14:12:26 ::1 GET /Scripts/SiteLayoutPageForMasters-js v=NMauVSy_gT5RAxxlGvKHHiQU4fD1J3tKXjMwy7O32kM1 51722 qcemployee7.gorilla@gmail.com ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ 200 0 0 145
+2018-06-27 14:20:49 ::1 GET /User/LogOn - 51722 qcemployee7.gorilla@gmail.com ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ 302 0 0 2657
+2018-06-27 14:25:11 ::1 GET / - 51722 qcemployee7.gorilla@gmail.com ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ 200 0 0 261471
+2018-06-27 14:26:32 ::1 GET /ReceiptBox - 51722 qcemployee7.gorilla@gmail.com ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ 200 0 0 251742
+2018-06-27 14:26:41 ::1 GET /ReceiptBox - 51722 qcemployee7.gorilla@gmail.com ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ 200 0 64 302082
+2018-06-27 14:34:58 ::1 GET /User/LogOn - 51722 qcemployee7.gorilla@gmail.com ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 0 2831
+2018-06-27 14:39:19 ::1 GET / - 51722 qcemployee7.gorilla@gmail.com ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 200 0 0 261046
+2018-06-27 14:41:36 ::1 GET /User/LogOut - 51722 qcemployee7.gorilla@gmail.com ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 0 44
+2018-06-27 14:41:53 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 64 15286
+2018-06-27 14:41:53 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 64 13294
+2018-06-27 14:41:57 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 64 5532
+2018-06-27 14:41:57 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 64 9528
+2018-06-27 14:41:57 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 64 13526
+2018-06-27 14:41:57 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 64 3530
+2018-06-27 14:41:57 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 64 7534
+2018-06-27 14:41:57 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 0 1584
+2018-06-27 14:41:57 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 64 15586
+2018-06-27 14:41:57 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 64 11590
+2018-06-27 14:41:57 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 0 187
+2018-06-27 14:42:00 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 200 0 64 2585
+2018-06-27 14:42:00 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 64 2632
+2018-06-27 14:42:00 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 0 768
+2018-06-27 14:42:00 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 302 0 0 152
+2018-06-27 14:42:01 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/ReceiptBox 200 0 0 437
+2018-06-27 14:42:01 ::1 GET /User/assets/pages/img/login/bg1.jpg - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://localhost:51722/User/LogOn 404 0 2 5

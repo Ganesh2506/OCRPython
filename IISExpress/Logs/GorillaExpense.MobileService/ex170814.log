@@ -1,0 +1,26 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-08-14 09:18:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-08-14 09:18:33 ::1 GET / - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 - 401 2 5 15703
+2017-08-14 09:18:33 ::1 GET /favicon.ico - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 http://localhost:52898/ 401 2 5 1
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-08-14 13:13:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-08-14 13:13:28 ::1 GET /Service_Mobile.svc - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 - 401 2 5 8733
+2017-08-14 13:13:30 ::1 GET /favicon.ico - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 http://localhost:52898/Service_Mobile.svc 401 2 5 2
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-08-14 15:11:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-08-14 15:11:04 ::1 GET / - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 - 401 2 5 16701
+2017-08-14 15:11:04 ::1 GET /favicon.ico - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 http://localhost:52898/ 401 2 5 2
+2017-08-14 15:11:15 ::1 GET /Service_Mobile.svc - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 - 401 2 5 5
+2017-08-14 15:11:15 ::1 GET /favicon.ico - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 http://localhost:52898/Service_Mobile.svc 401 2 5 5
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-08-14 15:14:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-08-14 15:14:05 ::1 GET / - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 - 401 2 5 9865
+2017-08-14 15:14:05 ::1 GET /favicon.ico - 52898 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 http://localhost:52898/ 401 2 5 2

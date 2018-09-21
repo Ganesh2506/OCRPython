@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-07-04 20:13:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-07-04 20:13:07 ::1 GET / - 7360 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 - 200 0 0 15563
+2017-07-04 20:13:07 ::1 GET /Content/Site.css - 7360 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 http://localhost:7360/ 200 0 0 25
+2017-07-04 20:13:07 ::1 GET /Scripts/bootstrap.min.js - 7360 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 http://localhost:7360/ 200 0 0 30
+2017-07-04 20:13:07 ::1 GET /Scripts/jquery-1.10.2.min.js - 7360 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 http://localhost:7360/ 200 0 0 34
+2017-07-04 20:13:07 ::1 GET /Scripts/modernizr-2.6.2.js - 7360 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 http://localhost:7360/ 200 0 0 40
+2017-07-04 20:13:07 ::1 GET /Content/bootstrap.min.css - 7360 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 http://localhost:7360/ 200 0 0 160
+2017-07-04 20:13:07 ::1 GET /favicon.ico - 7360 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 http://localhost:7360/ 404 0 2 4
+2017-07-04 20:13:07 ::1 GET /__browserLink/requestData/99c03bca8f0147e5adc1e9e898f122f8 version=2 7360 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 http://localhost:7360/ 200 0 0 69
+2017-07-04 20:13:13 ::1 GET /Home/SignIn - 7360 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 http://localhost:7360/ 302 0 0 1146
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-07-04 20:24:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-07-04 20:24:04 ::1 GET / - 7360 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 - 200 0 0 4440
+2017-07-04 20:24:04 ::1 GET /__browserLink/requestData/0fe974876fd24c86ba4da3664f603e49 version=2 7360 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.115+Safari/537.36 http://localhost:7360/ 200 0 0 36

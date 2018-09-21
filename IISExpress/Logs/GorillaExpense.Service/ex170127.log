@@ -1,0 +1,60 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-01-27 12:59:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-01-27 12:59:03 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 13229
+2017-01-27 12:59:03 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 134
+2017-01-27 12:59:05 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 401
+2017-01-27 12:59:08 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 90
+2017-01-27 12:59:08 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 159
+2017-01-27 12:59:10 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 1193
+2017-01-27 12:59:10 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 23
+2017-01-27 12:59:57 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 117
+2017-01-27 13:00:30 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 6246
+2017-01-27 13:00:30 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 57
+2017-01-27 13:00:34 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 3538
+2017-01-27 13:00:41 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 34
+2017-01-27 13:00:41 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 19
+2017-01-27 13:00:41 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 108
+2017-01-27 13:00:41 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 23
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-01-27 15:20:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-01-27 15:20:30 ::1 GET /Service_Bank.svc - 2831 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 - 500 0 0 1025
+2017-01-27 15:20:40 ::1 GET / - 2831 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 - 403 14 0 174
+2017-01-27 15:20:50 ::1 GET /Service_Expense.svc - 2831 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 - 200 0 0 3367
+2017-01-27 15:21:28 ::1 POST /Service_Expense.svc/Service_Login.svc - 2831 - ::1 - - 500 0 0 80
+2017-01-27 15:21:37 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 662
+2017-01-27 15:21:37 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 116
+2017-01-27 15:21:38 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 181
+2017-01-27 15:27:19 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 158
+2017-01-27 15:27:19 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 90
+2017-01-27 15:27:20 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 60
+2017-01-27 15:27:25 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 108
+2017-01-27 15:27:25 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 67
+2017-01-27 15:27:25 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 351
+2017-01-27 15:27:30 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 79
+2017-01-27 15:27:48 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 195
+2017-01-27 15:28:22 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 500 0 0 1826
+2017-01-27 15:30:42 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 35
+2017-01-27 15:30:42 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 32
+2017-01-27 15:30:42 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 88
+2017-01-27 15:30:47 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 58
+2017-01-27 15:30:47 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 37
+2017-01-27 15:30:47 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 97
+2017-01-27 15:30:50 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 28
+2017-01-27 15:31:01 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 25
+2017-01-27 15:31:29 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 3553
+2017-01-27 15:32:45 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 56
+2017-01-27 15:32:49 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 3769
+2017-01-27 15:33:48 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 38
+2017-01-27 15:33:48 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 34
+2017-01-27 15:33:48 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 105
+2017-01-27 15:33:50 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 39
+2017-01-27 15:34:47 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 50
+2017-01-27 15:34:47 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 36
+2017-01-27 15:34:47 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 73
+2017-01-27 15:34:49 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 29
+2017-01-27 15:35:00 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 57
+2017-01-27 15:35:03 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 3228

@@ -1,0 +1,29 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-04-12 08:07:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-12 08:07:36 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 39740
+2017-04-12 08:07:48 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 11434
+2017-04-12 08:07:51 ::1 GET /__browserLink/requestData/05c112e0992e40a7bba67144b547c6dd version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 176
+2017-04-12 08:08:29 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 16958
+2017-04-12 08:08:29 ::1 GET /__browserLink/requestData/d548d652d79c412690cd499d203115bf version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 20
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-04-12 14:01:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-12 14:01:26 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 17446
+2017-04-12 14:01:41 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 14424
+2017-04-12 14:01:41 ::1 GET /__browserLink/requestData/2ca6a6eebeb047dd95bad2509a75815b version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 113
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-04-12 14:05:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-12 14:05:42 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 5231
+2017-04-12 14:05:46 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 4260
+2017-04-12 14:05:46 ::1 GET /__browserLink/requestData/2a779fe38faf41b4a209f373b63a670d version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 46
+2017-04-12 14:06:13 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 14170
+2017-04-12 14:06:13 ::1 GET /__browserLink/requestData/5a09eddf8b5c47038269ce514da077d6 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 24
+2017-04-12 14:06:23 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 5887
+2017-04-12 14:06:23 ::1 GET /__browserLink/requestData/8064d84d78bc4349b5efa7349c95c9ed version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 23
+2017-04-12 14:06:37 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 2170
+2017-04-12 14:06:37 ::1 GET /__browserLink/requestData/1e2487e2de9c4fe1a75b1960179757f7 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 20

@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-07-05 20:36:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-07-05 20:36:48 ::1 GET / - 44302 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 21088
+2017-07-05 20:36:50 ::1 GET /Scripts/jquery-2.1.1.js - 44302 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:44302/ 200 0 0 43
+2017-07-05 20:36:50 ::1 GET /Content/site.css - 44302 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:44302/ 200 0 0 50
+2017-07-05 20:36:50 ::1 GET /Scripts/bootstrap.js - 44302 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:44302/ 200 0 0 66
+2017-07-05 20:36:50 ::1 GET /Scripts/respond.js - 44302 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:44302/ 200 0 0 77
+2017-07-05 20:36:50 ::1 GET /Scripts/modernizr-2.8.3.js - 44302 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:44302/ 200 0 0 130
+2017-07-05 20:36:50 ::1 GET /Content/bootstrap.css - 44302 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:44302/ 200 0 0 330
+2017-07-05 20:36:54 ::1 GET /favicon.ico - 44302 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 13
+2017-07-05 20:36:55 ::1 GET /__browserLink/requestData/059339b5fc47420f9f10e890d94dc02e version=2 44302 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:44302/ 200 0 0 74

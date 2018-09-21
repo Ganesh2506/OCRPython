@@ -1,0 +1,29 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-03-23 08:20:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-03-23 08:20:49 ::1 GET / - 3315 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 500 0 0 70329
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-03-23 08:55:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-03-23 08:55:18 ::1 GET / - 3315 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 0 0 147678
+2017-03-23 08:55:20 ::1 GET /__browserLink/requestData/b358ec09af3b4d7ebc17d97208f988c0 version=2 3315 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 http://localhost:3315/ 200 0 0 156
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-03-23 08:57:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-03-23 08:57:00 ::1 GET / - 3315 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 0 0 18957
+2017-03-23 08:57:00 ::1 GET /__browserLink/requestData/af66393ec2d34217a5fa88d55258cc41 version=2 3315 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 http://localhost:3315/ 200 0 0 46
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-03-23 14:41:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-03-23 14:41:14 ::1 GET / - 3315 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 0 0 79373
+2017-03-23 14:41:15 ::1 GET /__browserLink/requestData/454005b71a76442ea8bcaaf7d500b489 version=2 3315 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 http://localhost:3315/ 200 0 0 71
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-03-23 14:58:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-03-23 14:58:36 ::1 GET / - 3315 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 0 0 22470
+2017-03-23 14:58:36 ::1 GET /__browserLink/requestData/913a713006ad4616b739b26f2da5106e version=2 3315 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 http://localhost:3315/ 200 0 0 73

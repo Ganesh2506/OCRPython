@@ -1,0 +1,134 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-04-17 12:06:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-17 12:06:52 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 500 19 183 51
+2017-04-17 12:07:04 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 500 19 183 7
+2017-04-17 12:07:07 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 500 19 183 2
+2017-04-17 12:07:07 ::1 GET /favicon.ico - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 500 19 183 3
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-04-17 12:08:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-17 12:08:27 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 22169
+2017-04-17 12:08:43 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 15991
+2017-04-17 12:08:43 ::1 GET /favicon.ico - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 25
+2017-04-17 12:08:43 ::1 GET /__browserLink/requestData/9af0956be1b44fdba357ee8b6cfd3f16 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 55
+2017-04-17 12:09:38 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 302 0 0 42205
+2017-04-17 12:09:38 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 302 0 0 82
+2017-04-17 12:10:00 ::1 GET /Dashboard/ViewDashboard - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 22265
+2017-04-17 12:10:00 ::1 GET /__browserLink/requestData/00ffeaca868349bcb67bf02e1c73e878 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 0 29
+2017-04-17 12:10:03 ::1 GET /Dashboard/getAjaxTab/1 sDate=null&eDate=null 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 0 2361
+2017-04-17 12:10:03 ::1 GET /Scripts/v2/easy.pie.chart/jquery.easing.1.3.js _=1492431003084 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 0 13
+2017-04-17 12:10:03 ::1 GET /Scripts/v2/easy.pie.chart/jquery.easypiechart.min.js _=1492431003106 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 0 15
+2017-04-17 12:10:03 ::1 GET /Scripts/v2/morris.charts/morris.min.js _=1492431003137 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 0 15
+2017-04-17 12:10:03 ::1 GET /Scripts/v2/morris.charts/raphael.min.js _=1492431003165 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 0 15
+2017-04-17 12:10:09 ::1 GET /Dashboard/GetExpenseSubmissions/ sDate=null&eDate=null 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 0 5756
+2017-04-17 12:10:13 ::1 GET /Dashboard/GetExpenseTypesAmount/ sDate=null&eDate=null 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 0 10250
+2017-04-17 12:11:39 ::1 GET /ExpenseDetail - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 0 86981
+2017-04-17 12:11:39 ::1 GET /css/tranx-gorilla-css v=1ee7wey9jOjuOBvePiFQfakhzxfcrOPyzTaAVzyYPO41 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 147
+2017-04-17 12:11:39 ::1 GET /Scripts/tranx-gorilla-js v=HEb0gldBuIh13UEztM3sMgRRLx67H1ZOvkNsIMGR_Ng1 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 69
+2017-04-17 12:11:39 ::1 GET /images/icons/exclamation.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 75
+2017-04-17 12:11:39 ::1 GET /Images/last.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 43
+2017-04-17 12:11:39 ::1 GET /Images/first.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 59
+2017-04-17 12:11:39 ::1 GET /images/icons/copy.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 59
+2017-04-17 12:11:39 ::1 GET /Images/prev.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 61
+2017-04-17 12:11:39 ::1 GET /Images/next.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 67
+2017-04-17 12:11:41 ::1 GET /__browserLink/requestData/dc267877f3094447bc3eac163c957ec0 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 631
+2017-04-17 12:11:47 ::1 GET /Dashboard/GetPayMethodsAmount/ sDate=null&eDate=null 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 64 103734
+2017-04-17 12:11:51 ::1 GET /Dashboard/GetExpensePostings/ sDate=null&eDate=null 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 64 108639
+2017-04-17 12:15:11 ::1 GET /ExpenseDetail/DisplayReceipt ExpenseDetailId=1513&_=1492431103870 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 207616
+2017-04-17 12:15:11 ::1 GET /css/displayreceipt-css v=GuPKwl26ihV7mKDlTlvPEf6KmVP6Y8e3OQirdDMmVLM1 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 43
+2017-04-17 12:15:11 ::1 GET /Scripts/displayreceipt-js v=2AlxdAYRlyg_4qrIwaOxfz6Y81AbcAqGH-bMVM7WxRg1&_=1492431311496 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ExpenseDetail 200 0 0 43
+2017-04-17 12:15:14 ::1 GET /Dashboard/GetExpenseApprovals/ sDate=null&eDate=null 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/Dashboard/ViewDashboard 200 0 64 311503
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-04-17 13:58:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-17 13:58:40 ::1 GET /PaymentAdjustment/PaymentAdjustmentDetails - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 500 0 0 28845
+2017-04-17 13:58:47 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 4972
+2017-04-17 13:58:47 ::1 GET /__browserLink/requestData/301df9b1483b4d4585426610ab24ec9e version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 73
+2017-04-17 13:59:29 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 28758
+2017-04-17 13:59:29 ::1 GET /__browserLink/requestData/d5b7bc2bf28e42a989c1b20aa081c724 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 25
+2017-04-17 14:00:12 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 500 0 0 4868
+2017-04-17 14:00:27 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 500 0 0 5796
+2017-04-17 14:00:27 ::1 GET /favicon.ico - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 23
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-04-17 14:00:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-17 14:00:44 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 4980
+2017-04-17 14:00:49 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 4752
+2017-04-17 14:00:50 ::1 GET /__browserLink/requestData/67c45bbcf9a04772a8ba993a390e390d version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 643
+2017-04-17 14:01:32 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 302 0 0 35485
+2017-04-17 14:03:00 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 64 19183
+2017-04-17 14:03:00 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 88188
+2017-04-17 14:03:00 ::1 GET /images/icons/paper_pencil_48.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ 200 0 0 22
+2017-04-17 14:03:00 ::1 GET /images/icons/add_48.png - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ 200 0 0 21
+2017-04-17 14:03:00 ::1 GET /__browserLink/requestData/c38c383b245e4920b0063261511116a9 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ 200 0 0 26
+2017-04-17 14:04:18 ::1 GET /PaymentAdjustment/ - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 115
+2017-04-17 14:04:18 ::1 GET /User/LogOn ReturnUrl=%2fPaymentAdjustment%2f 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 33
+2017-04-17 14:04:18 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 32
+2017-04-17 14:04:18 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 42
+2017-04-17 14:04:20 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 2167
+2017-04-17 14:04:20 ::1 GET /__browserLink/requestData/03d80aa2a40a437cbd2e69d656b0a6f9 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 20
+2017-04-17 14:04:56 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 302 0 0 21099
+2017-04-17 14:06:16 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 80108
+2017-04-17 14:06:16 ::1 GET /__browserLink/requestData/6914bfd8f6654256992cd5efea6f6bf4 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ 200 0 0 23
+2017-04-17 14:08:14 ::1 GET /PaymentAdjustment/ - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 27
+2017-04-17 14:08:14 ::1 GET /User/LogOn ReturnUrl=%2fPaymentAdjustment%2f 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 37
+2017-04-17 14:08:14 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 32
+2017-04-17 14:08:21 ::1 GET /User/as - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 404 0 0 6908
+2017-04-17 14:08:51 ::1 GET /PaymentAdjustment/ - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 30
+2017-04-17 14:08:51 ::1 GET /User/LogOn ReturnUrl=%2fPaymentAdjustment%2f 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 29
+2017-04-17 14:08:51 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 33
+2017-04-17 14:08:51 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 28
+2017-04-17 14:08:55 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 3840
+2017-04-17 14:08:55 ::1 GET /__browserLink/requestData/5ce6179c6d9b4156809f4308ac28a464 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 21
+2017-04-17 14:09:35 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 302 0 0 29949
+2017-04-17 14:11:19 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 102488
+2017-04-17 14:11:39 ::1 GET /__browserLink/requestData/929e9ed8342a41ff9c1789a6210441bd version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ 404 0 0 20269
+2017-04-17 14:11:57 ::1 GET /PaymentAdjustment/ - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 80
+2017-04-17 14:11:57 ::1 GET /User/LogOn ReturnUrl=%2fPaymentAdjustment%2f 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 551
+2017-04-17 14:11:57 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 34
+2017-04-17 14:11:57 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 82
+2017-04-17 14:12:01 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 3663
+2017-04-17 14:12:01 ::1 GET /__browserLink/requestData/e7ddaa8bff6a4d5c9834bd057305cfeb version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 27
+2017-04-17 14:12:47 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 302 0 0 37362
+2017-04-17 14:14:10 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 83408
+2017-04-17 14:14:10 ::1 GET /__browserLink/requestData/004a0236152f48f8806b919438e0f7b9 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ 200 0 0 30
+2017-04-17 14:14:59 ::1 GET /PaymentAdjustment/ - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 10377
+2017-04-17 14:16:22 ::1 GET /User/LogOn ReturnUrl=%2fPaymentAdjustment%2f 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 83110
+2017-04-17 14:16:24 ::1 GET /User/LogOut - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 2522
+2017-04-17 14:17:49 ::1 GET /User/as - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 404 0 0 84597
+2017-04-17 14:18:01 ::1 GET /User/LogOff - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ 302 0 0 6062
+2017-04-17 14:18:03 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ 302 0 0 1453
+2017-04-17 14:18:08 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ 200 0 0 5459
+2017-04-17 14:18:10 ::1 GET /__browserLink/requestData/fd1406ccbd5c4f0e91ee30cbfc005396 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 1250
+2017-04-17 14:18:46 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 302 0 0 34301
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-04-17 14:21:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-17 14:21:01 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 77032
+2017-04-17 14:21:13 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 11964
+2017-04-17 14:21:14 ::1 GET /__browserLink/requestData/c4a240d20e004480b4225354f89c9d1a version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 1140
+2017-04-17 14:22:20 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 302 0 0 55036
+2017-04-17 15:00:37 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 64 2297007
+2017-04-17 15:01:16 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 9106
+2017-04-17 15:01:18 ::1 GET /__browserLink/requestData/9820f19dbbf345068a6c0f9034c1cc77 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 1501
+2017-04-17 15:04:14 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 302 0 0 126081
+2017-04-17 15:05:36 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 82348
+2017-04-17 15:05:39 ::1 GET /__browserLink/requestData/e99050f66840462a8ac8623903df5822 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ 200 0 0 2541
+2017-04-17 15:06:29 ::1 GET /PaymentAdjustment/ - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 12515
+2017-04-17 15:06:54 ::1 GET /User/LogOn ReturnUrl=%2fPaymentAdjustment%2f 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 22500
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-04-17 17:00:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-04-17 17:00:24 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 302 0 0 14557
+2017-04-17 17:00:32 ::1 GET /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 0 0 8091
+2017-04-17 17:00:34 ::1 GET /__browserLink/requestData/617332aa56f643ce8533389eaf4aa9c7 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 1613
+2017-04-17 17:01:15 ::1 POST /User/LogOn - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 302 0 0 36265
+2017-04-17 17:03:09 ::1 GET / - 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/User/LogOn 200 0 0 114118
+2017-04-17 17:03:11 ::1 GET /__browserLink/requestData/b30a2b43f99c4ba789f812fe7f13c081 version=2 51722 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://localhost:51722/ 200 0 0 1516

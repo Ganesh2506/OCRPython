@@ -1,0 +1,84 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-08-31 10:24:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-08-31 10:24:24 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 21005
+2017-08-31 10:24:47 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 22816
+2017-08-31 10:25:06 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 17825
+2017-08-31 10:25:57 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 17977
+2017-08-31 10:26:30 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 27777
+2017-08-31 10:31:39 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 309137
+2017-08-31 10:31:56 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 16557
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-08-31 12:16:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-08-31 12:16:48 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 19482
+2017-08-31 12:18:18 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 23517
+2017-08-31 12:22:27 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 249174
+2017-08-31 12:22:42 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 14630
+2017-08-31 12:26:47 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 17457
+2017-08-31 12:27:41 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 19645
+2017-08-31 12:28:19 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 23108
+2017-08-31 12:28:43 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 17426
+2017-08-31 12:28:56 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 12987
+2017-08-31 12:33:43 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 21264
+2017-08-31 12:33:58 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 12386
+2017-08-31 12:37:56 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 238326
+2017-08-31 12:38:11 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 14198
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-08-31 14:06:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-08-31 14:06:56 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 17050
+2017-08-31 14:07:21 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 24640
+2017-08-31 14:07:33 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 11449
+2017-08-31 14:08:15 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 14613
+2017-08-31 14:08:41 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 20361
+2017-08-31 14:12:39 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 238193
+2017-08-31 14:12:55 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 15746
+2017-08-31 14:16:01 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 18085
+2017-08-31 14:16:52 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 28441
+2017-08-31 14:18:06 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 19093
+2017-08-31 14:18:44 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 16828
+2017-08-31 14:19:46 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 20901
+2017-08-31 14:20:00 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 14137
+2017-08-31 14:25:46 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 26919
+2017-08-31 14:26:16 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 30151
+2017-08-31 14:27:06 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 26920
+2017-08-31 14:27:53 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 37974
+2017-08-31 14:28:06 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 13500
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-08-31 14:55:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-08-31 14:55:37 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 18989
+2017-08-31 14:56:06 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 29595
+2017-08-31 14:56:20 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 12885
+2017-08-31 14:56:44 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 15891
+2017-08-31 14:57:03 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 16478
+2017-08-31 15:01:13 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 249786
+2017-08-31 15:01:27 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 13781
+2017-08-31 15:03:43 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 15503
+2017-08-31 15:04:25 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 18800
+2017-08-31 15:05:07 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 19311
+2017-08-31 15:05:36 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 14624
+2017-08-31 15:05:54 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 14693
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-08-31 15:56:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-08-31 15:56:25 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 14301
+2017-08-31 15:56:50 ::1 POST /Service_Login.svc - 2831 - ::1 - - 200 0 0 25096
+2017-08-31 15:57:11 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 19765
+2017-08-31 15:57:30 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 13989
+2017-08-31 15:57:50 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 16784
+2017-08-31 16:02:35 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 285223
+2017-08-31 16:02:51 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 15313
+2017-08-31 16:05:12 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 26514
+2017-08-31 16:06:11 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 37338
+2017-08-31 16:06:56 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 21864
+2017-08-31 16:07:22 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 14162
+2017-08-31 16:07:39 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 11627
+2017-08-31 16:10:09 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 14281
+2017-08-31 16:11:05 ::1 POST /Service_Expense.svc - 2831 - ::1 - - 200 0 0 15918

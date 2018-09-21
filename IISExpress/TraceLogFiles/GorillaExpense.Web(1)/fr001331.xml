@@ -1,0 +1,4972 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='freb.xsl'?>
+<!-- saved from url=(0014)about:internet -->
+<failedRequest url="http://localhost:51723/__browserLink/requestData/5a0b76e3ff6344ccab11d61ed4684a79?version=2"
+               siteId="9"
+               appPoolId="Clr4ClassicAppPool"
+               processId="16268"
+               verb="GET"
+               remoteUserName=""
+               userName=""
+               tokenUserName="AzureAD\GaneshKumbhar"
+               authenticationType="anonymous"
+               activityId="{00000000-0000-0000-BD00-0080030000FA}"
+               failureReason="STATUS_CODE"
+               statusCode="200"
+               triggerStatusCode="200"
+               timeTaken="140"
+               xmlns:freb="http://schemas.microsoft.com/win/2006/06/iis/freb"
+               >
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">FailedRequestsTracingModule</Data>
+  <Data Name="Notification">1</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">BEGIN_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">RewriteModule</Data>
+  <Data Name="Notification">1</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">BEGIN_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">RewriteModule</Data>
+  <Data Name="Notification">1</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">BEGIN_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">ApplicationInitializationModule</Data>
+  <Data Name="Notification">1</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">BEGIN_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">ApplicationInitializationModule</Data>
+  <Data Name="Notification">1</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">BEGIN_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WebSocketModule</Data>
+  <Data Name="Notification">1</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">BEGIN_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WebSocketModule</Data>
+  <Data Name="Notification">1</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">BEGIN_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiFilterModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiFilterModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">CertificateMappingAuthenticationModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="AuthTypeSupported">128</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_START</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+  <freb:Description Data="AuthTypeSupported">MapCliCert</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>28</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_END</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">CertificateMappingAuthenticationModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">BasicAuthenticationModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="AuthTypeSupported">2</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_START</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+  <freb:Description Data="AuthTypeSupported">Basic</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>28</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_END</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">BasicAuthenticationModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WindowsAuthenticationModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="AuthTypeSupported">4</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_START</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+  <freb:Description Data="AuthTypeSupported">NT</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>28</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_END</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WindowsAuthenticationModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IISCertificateMappingAuthenticationModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="AuthTypeSupported">128</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_START</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+  <freb:Description Data="AuthTypeSupported">MapCliCert</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>28</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_END</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IISCertificateMappingAuthenticationModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">AnonymousAuthenticationModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="AuthTypeSupported">1</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_START</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+  <freb:Description Data="AuthTypeSupported">Anonymous</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>27</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="RequestAuthType">1</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_REQUEST_AUTH_TYPE</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+  <freb:Description Data="RequestAuthType">Anonymous</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="AuthType">4</Data>
+  <Data Name="NTLMUsed">false</Data>
+  <Data Name="RemoteUserName"></Data>
+  <Data Name="AuthUserName"></Data>
+  <Data Name="TokenImpersonationLevel">3</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_SUCCEEDED</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+  <freb:Description Data="AuthType">NT</freb:Description>
+  <freb:Description Data="TokenImpersonationLevel">ImpersonationDelegate</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>44</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="AuthType"></Data>
+  <Data Name="UserName"></Data>
+  <Data Name="SupportsIsInRole">true</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>USER_SET</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{D42CF7EF-DE92-473E-8B6C-621EA663113A}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>28</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AUTH_END</Opcode>
+  <Keywords>
+   <Keyword>Authentication</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{C33BBE8F-985B-4080-81E6-005F1A06B9E2}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">AnonymousAuthenticationModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiFilterModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotification">true</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>19</Opcode>
+  <Keywords>0x8</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>FILTER_AUTH_COMPLETE_START</Opcode>
+  <Keywords>
+   <Keyword>Filter</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{00237F0D-73EB-4BCF-A232-126693595847}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>20</Opcode>
+  <Keywords>0x8</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>FILTER_AUTH_COMPLETE_END</Opcode>
+  <Keywords>
+   <Keyword>Filter</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{00237F0D-73EB-4BCF-A232-126693595847}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiFilterModule</Data>
+  <Data Name="Notification">2</Data>
+  <Data Name="fIsPostNotificationEvent">true</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHENTICATE_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">UrlAuthorizationModule</Data>
+  <Data Name="Notification">4</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHORIZE_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">UrlAuthorizationModule</Data>
+  <Data Name="Notification">4</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">AUTHORIZE_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">StaticCompressionModule</Data>
+  <Data Name="Notification">16</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">MAP_REQUEST_HANDLER</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">StaticCompressionModule</Data>
+  <Data Name="Notification">16</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">MAP_REQUEST_HANDLER</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">HttpRedirectionModule</Data>
+  <Data Name="Notification">16</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">MAP_REQUEST_HANDLER</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">HttpRedirectionModule</Data>
+  <Data Name="Notification">16</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">MAP_REQUEST_HANDLER</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiModule</Data>
+  <Data Name="Notification">128</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">EXECUTE_REQUEST_HANDLER</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>0</Level>
+  <Opcode>12</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>GENERAL_ISAPI_HANDLER</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{D42CF7EF-DE92-473E-8B6C-621EA663113A}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>0</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>ISAPI_START</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{2E94E6C7-EDA0-4B73-9010-2529EDCE1C27}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ISAPI Extension" Guid="{A1C2040E-8840-4C31-BA11-9871031A19EA}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>0</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="DllName">C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_isapi.dll</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>CALL_ISAPI_EXTENSION</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{ACADE3B2-B7D7-4339-956C-811B4EDB1B24}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>0</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0xf</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">GET</Data>
+  <Data Name="Data2">/__browserLink/requestData/5a0b76e3ff6344ccab11d61ed4684a79</Data>
+  <Data Name="Data3">version=2</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetStart</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>4</Level>
+  <Opcode>3</Opcode>
+  <Keywords>0x1</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetReqQueued</Opcode>
+  <Keywords>
+   <Keyword>Infrastructure</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>4</Level>
+  <Opcode>4</Opcode>
+  <Keywords>0x1</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetReqDequeued</Opcode>
+  <Keywords>
+   <Keyword>Infrastructure</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>5</Opcode>
+  <Keywords>0x1</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetGetAppDomainEnter</Opcode>
+  <Keywords>
+   <Keyword>Infrastructure</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>6</Opcode>
+  <Keywords>0x1</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.344Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetGetAppDomainLeave</Opcode>
+  <Keywords>
+   <Keyword>Infrastructure</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>7</Opcode>
+  <Keywords>0x1</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.375Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">/LM/W3SVC/9/ROOT-1-131363048846974645</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetAppDomainEnter</Opcode>
+  <Keywords>
+   <Keyword>Infrastructure</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>8</Opcode>
+  <Keywords>0x1</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.375Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">ASP.global_asax</Data>
+  <Data Name="Data2">Start</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetStartHandler</Opcode>
+  <Keywords>
+   <Keyword>Infrastructure</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">Microsoft.ApplicationInsights.Web.ApplicationInsightsHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">Microsoft.ApplicationInsights.Web.ApplicationInsightsHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.WindowsAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.WindowsAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.FormsAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.FormsAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.PassportAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.PassportAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Handlers.ScriptModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Handlers.ScriptModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.DefaultAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.DefaultAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.RoleManagerModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>4</Level>
+  <Opcode>48</Opcode>
+  <Keywords>0x8</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetRoleBegin</Opcode>
+  <Keywords>
+   <Keyword>AppServices</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>4</Level>
+  <Opcode>49</Opcode>
+  <Keywords>0x8</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">RolePrincipal</Data>
+  <Data Name="Data2">employee1@gorillaexpense.com</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetRoleEnd</Opcode>
+  <Keywords>
+   <Keyword>AppServices</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.RoleManagerModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.ServiceModel.Activation.HttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.ServiceModel.Activation.HttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.UrlAuthorizationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.UrlAuthorizationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.FileAuthorizationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.FileAuthorizationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Caching.OutputCacheModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Caching.OutputCacheModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Routing.UrlRoutingModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Routing.UrlRoutingModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.WebPages.WebPageHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.WebPages.WebPageHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Optimization.BundleModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Optimization.BundleModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>12</Opcode>
+  <Keywords>0x1</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetMapHandlerEnter</Opcode>
+  <Keywords>
+   <Keyword>Infrastructure</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>13</Opcode>
+  <Keywords>0x1</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetMapHandlerLeave</Opcode>
+  <Keywords>
+   <Keyword>Infrastructure</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.SessionState.SessionStateModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>4</Level>
+  <Opcode>42</Opcode>
+  <Keywords>0x8</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetSessionDataBegin</Opcode>
+  <Keywords>
+   <Keyword>AppServices</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>4</Level>
+  <Opcode>43</Opcode>
+  <Keywords>0x8</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetSessionDataEnd</Opcode>
+  <Keywords>
+   <Keyword>AppServices</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.SessionState.SessionStateModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Profile.ProfileModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Profile.ProfileModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Handlers.ScriptModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Handlers.ScriptModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">Microsoft.VisualStudio.Web.PageInspector.Runtime.Tracing.PageInspectorHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">Microsoft.VisualStudio.Web.PageInspector.Runtime.Tracing.PageInspectorHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.ImplicitAsyncPreloadModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.ImplicitAsyncPreloadModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>4</Level>
+  <Opcode>18</Opcode>
+  <Keywords>0x4</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.406Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetHttpHandlerEnter</Opcode>
+  <Keywords>
+   <Keyword>Page</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>4</Level>
+  <Opcode>19</Opcode>
+  <Keywords>0x4</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetHttpHandlerLeave</Opcode>
+  <Keywords>
+   <Keyword>Page</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">Microsoft.VisualStudio.Web.PageInspector.Runtime.Tracing.PageInspectorHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">Microsoft.VisualStudio.Web.PageInspector.Runtime.Tracing.PageInspectorHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.SessionState.SessionStateModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.SessionState.SessionStateModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Caching.OutputCacheModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Caching.OutputCacheModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.SessionState.SessionStateModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.SessionState.SessionStateModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.FormsAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.FormsAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.PassportAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.PassportAuthenticationModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.RoleManagerModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Security.RoleManagerModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Profile.ProfileModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Profile.ProfileModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Handlers.ScriptModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.Handlers.ScriptModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">Microsoft.ApplicationInsights.Web.ApplicationInsightsHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">Microsoft.ApplicationInsights.Web.ApplicationInsightsHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">Microsoft.VisualStudio.Web.PageInspector.Runtime.Tracing.PageInspectorHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">Microsoft.VisualStudio.Web.PageInspector.Runtime.Tracing.PageInspectorHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>10</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.WebPages.WebPageHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineEnter</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>11</Opcode>
+  <Keywords>0x2</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Data1">System.Web.WebPages.WebPageHttpModule</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetPipelineLeave</Opcode>
+  <Keywords>
+   <Keyword>Module</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>5</Level>
+  <Opcode>9</Opcode>
+  <Keywords>0x1</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.422Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetEndHandler</Opcode>
+  <Keywords>
+   <Keyword>Infrastructure</Keyword>
+  </Keywords>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>17</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiModule</Data>
+  <Data Name="Notification">128</Data>
+  <Data Name="HttpStatus">200</Data>
+  <Data Name="HttpReason">OK</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>MODULE_SET_RESPONSE_SUCCESS_STATUS</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">EXECUTE_REQUEST_HANDLER</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WebSocketModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WebSocketModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">HttpLoggingModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">HttpLoggingModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WebMatrixSupportModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WebMatrixSupportModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WindowsAuthenticationModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WindowsAuthenticationModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">BasicAuthenticationModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">BasicAuthenticationModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">ProtocolSupportModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">ProtocolSupportModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiFilterModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiFilterModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">DynamicCompressionModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">DynamicCompressionModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">RewriteModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">RewriteModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">CustomErrorModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>52</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Reason">1</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>GENERAL_NOT_SEND_CUSTOM_ERROR</Opcode>
+  <freb:Description Data="Reason">SETSTATUS_SUCCESS</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{D42CF7EF-DE92-473E-8B6C-621EA663113A}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">CustomErrorModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">DynamicIpRestrictionModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">DynamicIpRestrictionModule</Data>
+  <Data Name="Notification">536870912</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">SEND_RESPONSE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>14</Opcode>
+  <Keywords>0x80</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="HttpsysCacheable">false</Data>
+  <Data Name="Reason">21</Data>
+  <Data Name="CachePolicy">0</Data>
+  <Data Name="TimeToLive">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>HTTPSYS_CACHEABLE</Opcode>
+  <Keywords>
+   <Keyword>Cache</Keyword>
+  </Keywords>
+  <freb:Description Data="Reason">NO_PIPELINE_ENABLE</freb:Description>
+  <freb:Description Data="CachePolicy">NO_CACHE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{AC1D69F1-BF33-4CA0-9313-BCA13873E1DC}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>35</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>GENERAL_FLUSH_RESPONSE_START</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{D42CF7EF-DE92-473E-8B6C-621EA663113A}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>47</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Headers">Cache-Control: public
+Content-Length: 3884
+Content-Type: application/json
+Expires: Tue, 11 Apr 2017 13:58:56 GMT
+Server: Microsoft-IIS/8.0
+X-AspNet-Version: 4.0.30319
+X-SourceFiles: =?UTF-8?B?QzpcVXNlcnNcR2FuZXNoS3VtYmhhclxTb3VyY2VcV29ya3NwYWNlc1xHb3JpbGxhRXhwZW5zZS5WUzIwMTMuUmVsZWFzZVxHb3JpbGxhRXhwZW5zZS5WUzIwMTMuQ3VycmVudFxHb3JpbGxhRXhwZW5zZS5XZWJcX19icm93c2VyTGlua1xyZXF1ZXN0RGF0YVw1YTBiNzZlM2ZmNjM0NGNjYWIxMWQ2MWVkNDY4NGE3OQ==?=
+X-Powered-By: ASP.NET
+</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>GENERAL_RESPONSE_HEADERS</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{D42CF7EF-DE92-473E-8B6C-621EA663113A}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>49</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="Buffer">{&quot;files&quot;:[&quot;~\/Views\/Shared\/Site.Master&quot;,&quot;~\/Views\/Shared\/Sidebar.ascx&quot;,&quot;~\/Views\/Expense\/Create.aspx&quot;,&quot;~\/Views\/Expense\/PartialCashAdvanceHeaderFields.cshtml&quot;],&quot;map&quot;:[[&quot;head&gt;meta&quot;,[[0,346,1289]],null],[&quot;head&gt;link&quot;,null,[[1,4381,-123,-123]]],[&quot;div#sidebar&quot;,[[1,4276,89]]],[&quot;div#sidebar-wrapper&quot;,[[1,4276,89]]],[&quot;h1#sidebar-title&quot;,[[1,4276,248],{&quot;children&quot;:[[&quot;a&quot;,[[1,4380,139,12]]]]}]],[&quot;a:has(img#logo)&quot;,[[1,4542,-1706,12]]],[&quot;div#breadcrumbs&quot;,[[1,4276,115]]],[&quot;div.notification&quot;,[[1,4251,114],{&quot;children&quot;:[[&quot;a&quot;,[[1,4523,-1746,-1757]],[[1,2794,1434,136]]]],&quot;ancestors&quot;:[[&quot;noscript&quot;,[[1,4405,-40,-172]]]]}]],[&quot;div.clear&quot;,[[1,4378,25,19]],[[0,5912,25,19]]],[&quot;div#main-content&gt;br&quot;,[[0,5755,6,6]]],[&quot;div.content-box-header&quot;,[[1,4276,-4]]],[&quot;div#tab1&gt;div&quot;,[[1,4276,114]]],[&quot;input#ExpenseName&quot;,[[2,7344,92],{&quot;ancestors&quot;:[[&quot;tbody&gt;tr&gt;td&gt;b&quot;,[[1,4378,11,3]],null,null,null,null],[&quot;tbody&gt;tr&gt;td&quot;,null,null,[[2,6983,66,4]],[[2,7079,45,4]],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],[&quot;tr&quot;,[[2,7181,997,4],{&quot;children&quot;:[[&quot;td&quot;,[[2,7215,61,4],{&quot;children&quot;:[[&quot;b&quot;,[[2,7219,52,3]]]]}],null,[[2,7634,50,4],{&quot;children&quot;:[[&quot;b&quot;,[[2,7638,41,3]]]]}],null]]}]],[&quot;td&quot;,[[2,7306,298,4],{&quot;children&quot;:[[&quot;br&quot;,[[2,7470,6,6]]],[&quot;span&quot;,[[2,7510,59]]]]}]]]}]],[&quot;select#TravelTypeId&quot;,[[2,7838,155],{&quot;children&quot;:[[&quot;option&quot;,[[2,7838,155]],[[2,7838,155]]]],&quot;ancestors&quot;:[[&quot;td&quot;,[[2,7834,313,4],{&quot;children&quot;:[[&quot;br&quot;,[[2,8028,6,6]]],[&quot;span&quot;,[[2,8068,44]]]]}]]]}]],[&quot;input#StartingDate&quot;,[[2,8332,124],{&quot;ancestors&quot;:[[&quot;tr&quot;,[[2,8204,891,4],{&quot;children&quot;:[[&quot;td&quot;,[[2,8238,26,4],{&quot;children&quot;:[[&quot;b&quot;,[[2,8242,17,3]]]]}],null,[[2,8655,24,4],{&quot;children&quot;:[[&quot;b&quot;,[[2,8659,15,3]]]]}],null]]}]],[&quot;td&quot;,[[2,8294,331,4],{&quot;children&quot;:[[&quot;br&quot;,[[2,8490,6,6]]],[&quot;span&quot;,[[2,8530,60]]]]}]]]}]],[&quot;input#EndDate&quot;,[[2,8747,119],{&quot;ancestors&quot;:[[&quot;td&quot;,[[2,8709,353,4],{&quot;children&quot;:[[&quot;br&quot;,[[2,8900,6,6]]],[&quot;span&quot;,[[2,8940,55]]]]}]]]}]],[&quot;input#NW_Show&quot;,[[2,9121,35]]],[&quot;input#NW_Valid&quot;,[[2,9182,36]]],[&quot;input#NW_Enforce&quot;,[[2,9244,38]]],[&quot;input#PN_Show&quot;,[[2,9308,35]]],[&quot;input#PN_Valid&quot;,[[2,9369,36]]],[&quot;input#PN_Enforce&quot;,[[2,9431,38]]],[&quot;input#RN_Show&quot;,[[2,9495,35]]],[&quot;input#RN_Valid&quot;,[[2,9556,36]]],[&quot;input#CIA_Show&quot;,[[2,9618,36]]],[&quot;input#CIA_Valid&quot;,[[2,9680,37]]],[&quot;input#HR_Show&quot;,[[2,9743,35]]],[&quot;input#HR_Valid&quot;,[[2,9804,36]]],[&quot;td#lblNetworkNumber&quot;,[[2,10085,129,26],{&quot;ancestors&quot;:[[&quot;tr&quot;,[[2,9866,1991,4]]]]}]],[&quot;td#txtNetworkNumber&quot;,[[2,10516,355,26],{&quot;children&quot;:[[&quot;span&quot;,[[2,10775,61]]]]}]],[&quot;select#NetworkNumber&quot;,[[2,10576,165,48],{&quot;children&quot;:[[&quot;option&quot;,[[2,10662,36,17]]]]}]],[&quot;td#lblProjectNumber&quot;,[[2,11056,129,26]]],[&quot;td#txtProjectNumber&quot;,[[2,11431,395,26],{&quot;children&quot;:[[&quot;br&quot;,[[2,11690,6,6]]],[&quot;span&quot;,[[2,11730,61]]]]}]],[&quot;select#ProjectNumber&quot;,[[2,11491,165,48],{&quot;children&quot;:[[&quot;option&quot;,[[2,11577,36,17]]]]}]],[&quot;td#lblReferenceNumber&quot;,[[2,11940,103,28]]],[&quot;input#ReferenceNumber&quot;,[[2,12111,96],{&quot;ancestors&quot;:[[&quot;td&gt;br&quot;,[[2,12241,6,6]]],[&quot;td&gt;span&quot;,[[2,12281,63]]]]}]],[&quot;tr#trReferenceNumber&gt;td&quot;,null,null,[[3,2222,78]]],[&quot;tr#trCashInAdvance&quot;,[[3,2326,476],{&quot;children&quot;:[[&quot;td&quot;,null,null,[[3,2581,203]]]]}]],[&quot;td:has(input#WBSElement)&quot;,[[3,2399,385],{&quot;children&quot;:[[&quot;br&quot;,[[2,13086,6,6]]],[&quot;span&quot;,[[2,13126,58]]]]}]],[&quot;tr:has(input#Comment)&quot;,[[3,2811,451],{&quot;children&quot;:[[&quot;td&quot;,[[3,2811,49]],null]]}]],[&quot;td:has(input#Comment)&gt;br&quot;,[[2,13645,6,6]]],[&quot;input#CustomField1&quot;,[[2,14004,94],{&quot;ancestors&quot;:[[&quot;td&quot;,[[2,13954,313,16]]],[&quot;tr&gt;td&gt;br&quot;,[[2,14132,6,6]]],[&quot;tr&gt;td&gt;span&quot;,[[2,14172,60]]]]}]],[&quot;p:has(input[type=&apos;hidden&apos;])&quot;,[[2,15239,159,3],{&quot;children&quot;:[[&quot;input[type=&apos;hidden&apos;]&quot;,[[2,15264,29]]]]}]],[&quot;input#Save&quot;,[[2,15315,61,61]]],[&quot;div#tab1&gt;p&quot;,null,[[2,15441,94,3],{&quot;children&quot;:[[&quot;a&quot;,[[2,15466,47]]]]}]],[&quot;div#main-content&gt;script&quot;,[[2,15699,30621,31]]],[&quot;div#footer&quot;,[[0,5951,556,17],{&quot;children&quot;:[[&quot;small&quot;,[[0,6104,383,7],{&quot;children&quot;:[[&quot;a&quot;,[[0,6180,59,40]],[[0,6242,82,62]],[[0,6327,75,57]]]]}]]]}]]]}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>GENERAL_RESPONSE_ENTITY_BUFFER</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{D42CF7EF-DE92-473E-8B6C-621EA663113A}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>36</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="BytesSent">4405</Data>
+  <Data Name="ErrorCode">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>GENERAL_FLUSH_RESPONSE_END</Opcode>
+  <freb:Description Data="ErrorCode">The operation completed successfully. (0x0)</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{D42CF7EF-DE92-473E-8B6C-621EA663113A}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>3</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiModule</Data>
+  <Data Name="Notification">128</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="CompletionBytes">4405</Data>
+  <Data Name="ErrorCode">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_COMPLETION</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">EXECUTE_REQUEST_HANDLER</freb:Description>
+  <freb:Description Data="ErrorCode">The operation completed successfully. (0x0)</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ISAPI Extension" Guid="{A1C2040E-8840-4C31-BA11-9871031A19EA}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>4</Level>
+  <Opcode>3</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_ISAPI_COMPLETION</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{ACADE3B2-B7D7-4339-956C-811B4EDB1B24}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ASPNET" Guid="{AFF081FE-0247-4275-9C4E-021F3DC1DA35}"/>
+  <EventID>0</EventID>
+  <Version>0</Version>
+  <Level>0</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0xf</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ConnID">212677888</Data>
+  <Data Name="Context ID">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>AspNetEnd</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{06A01367-79D3-4594-8EB3-C721603C4679}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="ISAPI Extension" Guid="{A1C2040E-8840-4C31-BA11-9871031A19EA}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>0</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>ISAPI_EXTENSION_DONE</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{ACADE3B2-B7D7-4339-956C-811B4EDB1B24}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>0</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>ISAPI_END</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{2E94E6C7-EDA0-4B73-9010-2529EDCE1C27}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">IsapiModule</Data>
+  <Data Name="Notification">128</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">EXECUTE_REQUEST_HANDLER</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">DynamicCompressionModule</Data>
+  <Data Name="Notification">256</Data>
+  <Data Name="fIsPostNotification">true</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">RELEASE_REQUEST_STATE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">DynamicCompressionModule</Data>
+  <Data Name="Notification">256</Data>
+  <Data Name="fIsPostNotificationEvent">true</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">RELEASE_REQUEST_STATE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">RewriteModule</Data>
+  <Data Name="Notification">256</Data>
+  <Data Name="fIsPostNotification">true</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">RELEASE_REQUEST_STATE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">RewriteModule</Data>
+  <Data Name="Notification">256</Data>
+  <Data Name="fIsPostNotificationEvent">true</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">RELEASE_REQUEST_STATE</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">CustomLoggingModule</Data>
+  <Data Name="Notification">1024</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">LOG_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">CustomLoggingModule</Data>
+  <Data Name="Notification">1024</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">LOG_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">DynamicIpRestrictionModule</Data>
+  <Data Name="Notification">2048</Data>
+  <Data Name="fIsPostNotification">false</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">END_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">DynamicIpRestrictionModule</Data>
+  <Data Name="Notification">2048</Data>
+  <Data Name="fIsPostNotificationEvent">false</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">END_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>1</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WebSocketModule</Data>
+  <Data Name="Notification">2048</Data>
+  <Data Name="fIsPostNotification">true</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_START</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">END_REQUEST</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>5</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x100</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="ModuleName">WebSocketModule</Data>
+  <Data Name="Notification">2048</Data>
+  <Data Name="fIsPostNotificationEvent">true</Data>
+  <Data Name="NotificationStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>NOTIFY_MODULE_END</Opcode>
+  <Keywords>
+   <Keyword>RequestNotifications</Keyword>
+  </Keywords>
+  <freb:Description Data="Notification">END_REQUEST</freb:Description>
+  <freb:Description Data="NotificationStatus">NOTIFICATION_CONTINUE</freb:Description>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{002E91E3-E7AE-44AB-8E07-99230FFA6ADE}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="WWW Server" Guid="{3A2A4E84-4C21-4981-AE10-3FDA0D9B0F83}"/>
+  <EventID>0</EventID>
+  <Version>1</Version>
+  <Level>0</Level>
+  <Opcode>2</Opcode>
+  <Keywords>0x0</Keywords>
+  <TimeCreated SystemTime="2017-04-10T13:58:56.484Z"/>
+  <Correlation ActivityID="{00000000-0000-0000-BD00-0080030000FA}"/>
+  <Execution ProcessID="16268" ThreadID="11200"/>
+  <Computer>GORILLA-LAP2</Computer>
+ </System>
+ <EventData>
+  <Data Name="ContextId">{00000000-0000-0000-BD00-0080030000FA}</Data>
+  <Data Name="BytesSent">4405</Data>
+  <Data Name="BytesReceived">2116</Data>
+  <Data Name="HttpStatus">200</Data>
+  <Data Name="HttpSubStatus">0</Data>
+ </EventData>
+ <RenderingInfo Culture="en-US">
+  <Opcode>GENERAL_REQUEST_END</Opcode>
+ </RenderingInfo>
+ <ExtendedTracingInfo xmlns="http://schemas.microsoft.com/win/2004/08/events/trace">
+  <EventGuid>{D42CF7EF-DE92-473E-8B6C-621EA663113A}</EventGuid>
+ </ExtendedTracingInfo>
+</Event>
+</failedRequest>
